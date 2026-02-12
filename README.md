@@ -5,6 +5,7 @@ Secure 1-to-1 messaging powered by end-to-end encryption and Web3 authentication
 Cryptexa is a modern Flutter-based chat application that combines real-time messaging, NaCl-based end-to-end encryption, and WalletConnect authentication into a privacy-first communication platform.
 
 Cryptexa Chat is a secure messaging application built with Flutter and GetX, designed around strong cryptographic principles and decentralized identity.
+
 📌 Overview
 
 Cryptexa Chat is a secure messaging application built with Flutter and GetX, designed around strong cryptographic principles and decentralized identity.
